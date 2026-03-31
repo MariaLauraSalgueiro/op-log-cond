@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("op-log-cond")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd9f756faaf38de6d2fa9adbd34936eb9e4f5af2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fe9188985b075c8b49e0f4e1fb154a5fc417314")]
 [assembly: System.Reflection.AssemblyProductAttribute("op-log-cond")]
 [assembly: System.Reflection.AssemblyTitleAttribute("op-log-cond")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

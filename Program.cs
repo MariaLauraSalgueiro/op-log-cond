@@ -4,4 +4,7 @@
 //Exercicio4.Executar();
 //Exercicio5.Executar();
 //Exercicio6.Executar();
-Exercicio7.Executar();
+//Exercicio7.Executar();
+Exercicio8.Executar();
+//Exercicio9.Executar();
+//exercicio10.Executar();

@@ -12,7 +12,7 @@ public class Exercicio2
         Console.WriteLine("Digite a letra");
         Console.WriteLine();
 
-        string letra = Console.ReadLine()!;
+        string letra = Console.ReadLine()!.ToLower();
 
         if (letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u")
         {

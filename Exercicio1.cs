@@ -22,9 +22,9 @@ public class Exercicio1
         Console.WriteLine("Digite o raio da lata");
         raio = double.Parse(Console.ReadLine()!);
 
-        volume = pi * raio * raio * altura;
+        volume = pi * (raio * raio) * altura;
 
-        Console.WriteLine(volume);
+        Console.WriteLine($"O volume da lata é: {volume}");
 
 
 
