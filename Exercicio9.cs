@@ -1,7 +1,7 @@
 /*Ref. (5 pontos)
 9 - Escreva um programa que leia um número e verifique se ele é positivo,
 negativo ou zero.
-Nome:
+Nome: Maria Laura Salgueiro de Azevedo
 */
     public class Exercicio9
     {
