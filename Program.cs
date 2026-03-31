@@ -5,6 +5,7 @@
 //Exercicio5.Executar();
 //Exercicio6.Executar();
 //Exercicio7.Executar();
-Exercicio8.Executar();
+//Exercicio8.Executar();
 //Exercicio9.Executar();
 //exercicio10.Executar();
+Exercicio3v2.Executar();
